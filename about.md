@@ -8,5 +8,5 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a junior attending Hunter College, pursuing a degree in computer science. I work as an Independent Contractor for two different transportation companies. I also do some background acting whenever I have free time. There are a lot of things I want to accomplish but not enough time in the day.  
 
